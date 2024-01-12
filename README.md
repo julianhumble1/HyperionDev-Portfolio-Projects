@@ -1,1 +1,19 @@
-# HyperionDev-Portfolio-Projects
+# Hyperion Dev Portfolio Projects
+
+This is a collection of some of the additional tasks I have been working on alongside my main Hyperion Dev SE Bootcamp Tasks.
+
+### PawsNCart
+
+Program which simulates an online shopping cart. This provides users with a basic menu and gives them the option to add items to their cart, remove items, view the current total cost of their cart, or ‘checkout’ and exit the program. Also uses defensive programming techniques to ensure the user enters valid inputs.
+
+### Simple Scribe
+
+Program which simulates a text formatting tool, and returns an output which can be copied and pasted into a markdown file to be formatted as desired.
+<br> Current functionality includes:
+* Adding headings, sub headings and main body text to the file.
+* Add text in **Bold** or *Italic* 
+* Insert a new paragraph using a line space
+* Edit text already in the file
+* Viewing and print the output for copying
+
+Currently working on adding functionality for inserting bullet points and tables.
