@@ -17,3 +17,7 @@ Program which simulates a text formatting tool, and returns an output which can 
 * Viewing and print the output for copying
 
 Currently working on adding functionality for inserting bullet points and tables.
+
+### Input Validator<br>
+
+Program which takes in user input of their details and verifies they are in the correct format. Current functionality includes first and last name, and phone number. Future functionality will include email address and postal address.
