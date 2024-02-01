@@ -2,6 +2,10 @@
 
 This is a collection of some of the additional tasks I have been working on alongside my main Hyperion Dev SE Bootcamp Tasks.
 
+### Number Guesser Game
+
+This program implements a number guessing game with user accounts and high-score tracking. It utilizes file I/O to read and write user information and high scores, employing dictionaries to store username-password pairs and user high scores. The script employs a while-loop structure for user interaction, prompting users to log in or create an account, handling authentication through username and password input. High scores are updated and displayed, and users can choose to play again or log out, with all data permanently saved to text files.
+
 ### Log Manager
 
 This Python code is a shipment log management program. Key features include reading, editing, and formatting logs. It offers search options (by date, type, reference number, location, goods type) and allows users to add new logs. The program is menu-driven, employing file handling, data manipulation, and user input validation
