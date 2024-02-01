@@ -1,0 +1,5 @@
+Username | Hi-Score
+Julian | 3
+Beth | 6
+Cassie | 5
+Leith | 7
